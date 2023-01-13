@@ -1,6 +1,6 @@
 # Mathematical Modelling of SARS-CoV-2 In-Host Viral Dynamics and Its Potential Antiviral Treatments
 
-This is the course final project for AMATH/BIOL 382: Computational Modelling of Cellular Systems, where we modelled COVID-19 in-host viral dynamics with ODE models and proposed potential anti-viral drugs for treatment.
+This is the course final project for AMATH/BIOL 382: Computational Modelling of Cellular Systems at the University of Waterloo in Winter 2022, where we modelled SARS-CoV-2 in-host viral dynamics with ODE models and proposed potential anti-viral drugs for treatment.
 
 You find the full paper and the R code in the repository.
 
